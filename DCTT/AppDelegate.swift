@@ -6,6 +6,8 @@
 //  Copyright © 2017年 Light.W. All rights reserved.
 //
 
+//https://www.jianshu.com/p/3228bfa3be7d
+
 import UIKit
 //import CoreLocation
 import IQKeyboardManagerSwift
